@@ -1,0 +1,1 @@
+docker run -it --rm  -v ${PWD}/config:/config -v ${PWD}/data/pecax:/data -v ${PWD}/csv:/csv s4iwp:0.1 
