@@ -1,2 +1,2 @@
-pysbml4j
+pysbml4j==1.3.1
 configparser
